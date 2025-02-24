@@ -12,8 +12,8 @@
 I'm currently diving into C# to enhance my skills and build more robust projects.  
 
 ## 📫 Where to find me?  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/marcelo-cambraia-villela-180860313/))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelocambraiav@gmail.com)  
 
 Welcome to my profile! Let’s build something awesome together 🚀  
 
