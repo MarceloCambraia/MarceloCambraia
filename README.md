@@ -4,7 +4,7 @@
 
 ## 🚀 Technologies & Tools  
 - 🌐 Frontend: HTML, CSS, JavaScript  
-- ⚙️ Backend: C#, Python
+- ⚙️ Backend: C#
 - 🛠️ Database: MySQL, SQL Server  
 - 🔧 Tools: Git, GitHub, Visual Studio Code, Visual Studio 2022  
 
