@@ -3,8 +3,8 @@
 🎓 A student and tech enthusiast on my journey to becoming a Full Stack Developer. I'm always eager to learn, explore new technologies, and take on programming challenges.
 
 ## 🚀 Technologies & Tools  
-- 🌐 Frontend: HTML, CSS, JavaScript  
-- ⚙️ Backend: C#
+- 🌐 Frontend: HTML, CSS, JavaScript, Tailwind CSS  
+- ⚙️ Backend: C#, Node.js
 - 🛠️ Database: MySQL, SQL Server  
 - 🔧 Tools: Git, GitHub, Visual Studio Code, Visual Studio 2022  
 
