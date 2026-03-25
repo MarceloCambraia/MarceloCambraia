@@ -1,33 +1,24 @@
-# Hello there, I'm Marcelo👋
+👋 Hi there! I'm Marcelo
 
-🎓 A student and tech enthusiast on my journey to becoming a Full Stack Developer. I'm always eager to learn, explore new technologies, and take on programming challenges.
+I am a passionate Fullstack Developer who loves solving complex problems and building robust applications from the ground up. I have strong experience across the entire development lifecycle, from designing backend architectures to crafting responsive frontends and even developing mobile applications from scratch.
 
-## 🚀 Technologies & Tools  
-- 🌐 Frontend: HTML, CSS, JavaScript, TypeScript, Angular , React
-- ⚙️ Backend: C#(.NET), Node.js
-- 🛠️ Database: MySQL, SQL Server  
-- 🔧 Tools: Git, GitHub, Visual Studio Code, Visual Studio 2022  
+## 🛠️ Technologies & Tools
 
-## 📌 What am I currently learning?  
-I'm currently diving into C# to enhance my skills and build more robust projects.  
+- 🌐 Frontend & Mobile: HTML, CSS, JavaScript, Angular, React, React Native
+- ⚙️ Backend: C#(.NET), PHP
+- 🛢️ Database: PostgreSQL, MySQL, SQL Server
+- 🔧 Architecture & DevOps: REST APIs, RabbitMQ, Docker, Kubernetes, Git, GitHub
 
-## 📫 Where to find me?  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-cambraia-villela-180860313/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelocambraiav@gmail.com)  
-  
+## 💡 What I Do
 
+- 🔨 **End-to-End Development:** Building complete web applications using .NET for the backend and React/Angular for the frontend.
+- 📱 **Mobile Solutions:** Creating cross-platform mobile experiences from scratch with React Native.
+- 🏗️ **System Architecture:** Designing scalable systems with REST APIs, RabbitMQ, Docker and Kubernetes.
+- 🗄️ **Database Management:** Writing advanced SQL queries across PostgreSQL, MySQL and SQL Server.
+- 🔍 **Code Review & Troubleshooting:** Ensuring code quality and reliability through debugging and peer reviews.
 
-<!--
-**MarceloCambraia/MarceloCambraia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Where to find me?
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-cambraia-villela-180860313/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelocambraiav@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://marcelocambraia.github.io/portfolio/)
