@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Passionate Fullstack Developer who loves solving complex problems and building robust applications from the ground up.<br/>
-  Strong experience across the entire development lifecycle — from backend architectures to responsive frontends and cross-platform mobile apps.</em>
+  Strong experience across the entire development lifecycle from backend architectures to responsive frontends and cross-platform mobile apps.</em>
 </p>
 
 <br/>
